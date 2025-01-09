@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Define the Mars map grid
-map_size = (10, 10)  # Bigger Mars map
+map_size = (10, 10)  # Bigger Mars map.
 mars_map = np.random.choice(['H', 'R', 'S'], size=map_size, p=[0.1, 0.3, 0.6])  # Hazards, Rocky, Smooth
 
 # Function to initialize the environment based on user input

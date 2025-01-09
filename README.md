@@ -16,7 +16,7 @@
 ## Running the Simulation
 1. Run the Python script:
    ```bash
-   python mars_robot.py
+   python mars_project.py
    ```
 2. Follow the prompts to:
    - Enter the starting (`x, y`) and goal (`x, y`) positions (range: 0 to 9).

@@ -1,2 +1,1 @@
-# Mars-Robot
-this reprisitory is not important i am just learning
+This project simulates a robot navigating a Mars-like environment using a grid-based map. The goal is to help the robot learn and optimize its movement to reach a target location while balancing speed and safety, based on user-defined risk levels.

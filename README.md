@@ -1,8 +1,3 @@
-# README: Mars Robot Simulation Project
-
-## Overview
-This project simulates a robot navigating a Mars-like environment using a grid-based map. The goal is to help the robot learn and optimize its movement to reach a target location while balancing speed and safety, based on user-defined risk levels.
-
 ## Features
 - **Interactive Input:** Users define the robot's start and end positions and set the risk tolerance level.
 - **Dynamic Environment:** The Mars map is randomly generated with three terrain types:
@@ -70,7 +65,3 @@ The simulation includes visual feedback:
 - Implement a GUI for better interaction.
 - Add obstacles that the robot cannot pass.
 - Include more sophisticated pathfinding algorithms.
-
----
-
-Enjoy exploring Mars with your robot! 🚀
